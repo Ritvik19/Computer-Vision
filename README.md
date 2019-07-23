@@ -1,3 +1,3 @@
 # Cyber-Trolls-Twitter
 
-Cyber Trolls Detection using Twitterr Data
+Cyber Trolls Detection using Twitter Data
