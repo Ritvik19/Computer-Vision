@@ -45,7 +45,7 @@ def add():
         db.session.add(post)
         db.session.commit()
         return jsonify(request.form)
-    return 'Added'
+    return 'Not Added'
 
 if __name__ == '__main__':
     app.run(debug=True)    
